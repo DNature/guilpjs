@@ -1,0 +1,1 @@
+function add(){return alert(4)}add();
